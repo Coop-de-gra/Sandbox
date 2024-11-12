@@ -85,3 +85,17 @@ test
 ### Manipulating Variabels
 
 * modulo `%` finds the remainder
+  
+* compound assignment operators
+   * `numCookies -= 3;` easy way of subtracting 3 from variable
+   * same theory applies to all the other operators
+ 
+* can use `>` or `<` operators in print statements to return `true` or `false
+   * ex `System.out.print(creditsEarned > creditsToGraduate);` prints `false` in the terminal
+ 
+* dont forget `==`, `!=`, `>=`, `<=`, `++`
+
+* `.equals()` operator works similarly to `==`
+   * ex. `System.out.println(person1.equals(person2));`
+ 
+* `final` keyword used to 
