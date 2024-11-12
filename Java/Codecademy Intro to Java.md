@@ -98,4 +98,8 @@ test
 * `.equals()` operator works similarly to `==`
    * ex. `System.out.println(person1.equals(person2));`
  
-* `final` keyword used to 
+* `final` keyword used to
+
+### Classes
+https://www.codecademy.com/courses/learn-java/lessons/java-introduction-to-classes/exercises/introduction-to-classes
+* 
