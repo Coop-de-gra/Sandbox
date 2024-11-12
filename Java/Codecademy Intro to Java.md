@@ -65,9 +65,7 @@ test
 
 #### double
 
-* same characteristics as ints, used for larger numbers
-* can holds decimals
-* 370 zeros compared to 10 zeros that ints can hold
+* same characteristics as ints, used for decimals numbers
 
 #### booleans
 
@@ -80,4 +78,10 @@ test
 
 #### String
 
-* 
+* `String` is capitalized because its actually and Class and not a primitive data type (common misconception)
+* it also has its own methods and properties (length(), substring(), toUpperCase(), ex) (not possible with primitives)
+* dont need to surround with () when declaring BECAUSE its not a primitive
+
+### Manipulating Variabels
+
+* modulo `%` finds the remainder
