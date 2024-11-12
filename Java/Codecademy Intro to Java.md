@@ -52,4 +52,32 @@ test
     * not important now, but useful in future
 
  * curly braces `{}` mark the scope of each class and method
- * 
+
+### Variables
+
+* variables are stored with primitive data types (int, bool, double, etc.)
+
+#### ints
+
+* ints hold positive, negative, and zero numbers
+* can't hold decimals
+* ints range is from -2.5 bil to +2.5 bil
+
+#### double
+
+* same characteristics as ints, used for larger numbers
+* can holds decimals
+* 370 zeros compared to 10 zeros that ints can hold
+
+#### booleans
+
+* true of false
+
+#### char
+
+* hold any character data
+* surround the character with apostrophes and not quotations
+
+#### String
+
+* 
