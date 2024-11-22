@@ -148,4 +148,23 @@ public class Dog{
 
 #### constructor parameters
 
-* 
+* parameters are placeholders we can use to pass information to a method
+* two types of parameters: formal & actual
+      * below, `String carColor` is a formal parameter because it will store data that is passed onto a method
+* a method can be understood by its signature (Name, number of, and parameters of the method)
+      * below, `Car(String carColor)` is the signature
+```
+public class Car { 
+  public String color; 
+
+  // constructor method with a parameter 
+  public Car(String carColor) { 
+    // parameter value assigned to the field 
+    color = carColor; 
+  } 
+} 
+```
+* when we create the new instance of `Car`:
+      * we pass onto it a String value through the constructor
+      * we store it in in `CarColor`
+      * we can now use it however we want so we assign it to the instance field color
