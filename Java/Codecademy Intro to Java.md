@@ -101,5 +101,51 @@ test
 * `final` keyword used to
 
 ### Classes
-https://www.codecademy.com/courses/learn-java/lessons/java-introduction-to-classes/exercises/introduction-to-classes
+
+* template for creating objects
+      * object oriented programming -> objects are the lifeline of the programs
+* outlines the necessary components and how they interact with eachother
+* good example of class structure
+      * https://www.codecademy.com/courses/learn-java/lessons/java-introduction-to-classes/exercises/introduction-to-classes
+
+#### Constructors
+
+* initialize fields when a class instance is created
+* must have the same name as the class itself
+* generally defined as `public`
+```
+public class Car { 
+ 
+ public Car() { // Constructor
+
+   // instructions for creating a Car instance 
+ }   
+}
+```
+```
+public class Main{
+  public static void main(String[] args){
+    Car Supra = new Car(); 
+  }
+}
+```
+#### Instances
+
+* characteristics of an object are known as instance variables or instance fields
+* each object gets its own copy of the initial instance variables
+'''
+public class Dog{
+  // below are the instances
+  String name;
+  String breed;
+  double weight;
+
+  public Dog(){
+    // this object will have its own uniqque instance variables
+  }
+}
+'''
+
+#### constructor parameters
+
 * 
