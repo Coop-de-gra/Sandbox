@@ -168,3 +168,79 @@ public class Car {
       * we pass onto it a String value through the constructor
       * we store it in in `CarColor`
       * we can now use it however we want so we assign it to the instance field color
+
+#### assigning values to instance fields
+
+* following the previous notes, the constructor will now accept values for parameters
+* these values will be known as **arguments**
+* following the past two examples, we will pass `red` as the `carColor parameter`
+```
+class Main{ 
+  public static void main(String[] args){ 
+  Car Supra = new Car("red"); 
+  } 
+}  
+```
+* also, we can now use dot operators to access the value, ex. `Supra.color;`
+
+#### multiple fields within a class
+
+* you can add differnt fields when initializng a class within the main method
+* ex. `public Store(String product, int count, double price)`
+```
+//STORE CLASS
+public class Store {
+  // instance fields
+  public String productType;
+  public int inventoryCount;
+  public double inventoryPrice;
+  // constructor method
+  public Store(String product, int count, double price) {
+    productType = product;
+    inventoryCount = count;
+    inventoryPrice = price;
+  }
+}
+```
+```
+//MAIN
+public class Main{
+  public static void main(String[] args) {    
+    Store cookieShop = new Store("cookies", 12, 3.75);
+  }
+}
+```
+
+### methods
+
+* repeatable, reusable, modular, blocks of code used to accomplish specific tasks
+* a task that an object of a class performs
+* method goal: `procedural abstraction` - knowing what a method does, but now how it accomplished it
+
+#### defining methods
+
+* `public void checkBalance()` is the method declaration
+   * `public` - its viewable outside this class
+   * `void` - no specific output
+   * `checkBalance` - method name
+```
+public void checkBalance(){
+  System.out.println("Hello!");
+  System.out.println("Your balance is " + balance);
+}
+```
+
+#### calling methods
+
+* first reference the object, then we call the method, and connect them via dot operator
+* code generally runs from top to bottom, but compilers ignore methods unless the are called
+
+#### scope
+
+* we cant access variables that are delared inside a method, ouside the scope of the method
+
+#### parameters
+
+* addiing parameters changes the methods signature
+* parameters must be called in the order they are declared
+* 
