@@ -14,7 +14,13 @@
 
 ### Ideas
 
+* projects tab that list the project, technologies learned, and learning focus
+
 * use Java to pull data from a random database and display the data
 * online bingo application where different users can connect and play bingo
-* to do
+  * Java WebSockets, WebSocket API
+* personal blog
+* weather dashboard
+* real time traffic reports for an area
+* 
 
