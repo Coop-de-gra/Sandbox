@@ -1,19 +1,19 @@
-### Portfolio
+## Portfolio
 **why** : because I want to showcase my work
-**What** : Java Web Application
 
-### How
+**what** : Java Web Application
+##
 
+## How
 * Spring Boot with JSF (JavaServer Faces) | https://spring.io/quickstart | https://start.spring.io/
   * JSF is a Java web application framework
   * provides a set of reusable UI components
   * used for scalable and maintainable web apps
 * RESTful APIs
-
+##
   
 
-### Ideas
-
+## Ideas
 * projects tab that list the project, technologies learned, and learning focus
 
 * use Java to pull data from a random database and display the data
@@ -23,4 +23,4 @@
 * weather dashboard
 * real time traffic reports for an area
 * 
-
+##
