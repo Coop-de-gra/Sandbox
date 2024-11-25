@@ -3,7 +3,8 @@
 
 ### How
 
-* Spring Framework
+* Spring Boot with JSF (JavaServer Faces)
+  
 
 ### Ideas
 
