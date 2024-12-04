@@ -4,6 +4,8 @@
 
 ***NOTE:*** Test anytime, anywhere in a highly secure environment
 
+_**Multiple Choice, 120 minutes, 60 questions, 65% to pass, JDK 1.8**_
+
 Link: https://education.oracle.com/java-foundations-also-available-in-chs-for-taiwan/pexam_1Z0-811
 
 Link: https://shop.oracle.com/apex/product?p1=oracleuniversity&p2=examsubscriptions&p3=oraclefoundationsexamsubscription&p4=&p5=
