@@ -8,6 +8,7 @@ Types of patterns
 - Structural
 - Creational
 - Behavioral
+- Concurrency
 
 
 #### Creational
