@@ -82,3 +82,23 @@ Types
  
 - Mediator
   - Centralizes communication between objects    
+
+#### Concurrency
+
+Purpose
+
+- addresses multi threading and synchronization patterns
+
+Types
+
+- Thread pool
+  - reusues a fixed # of threads for executing tasks
+ 
+- Producer-Conosumer
+  - manages communication between threads via shared resources
+ 
+- Read-Write lock
+  - optimizes thread safe access by allowing mulitple readers or one writer at a time to
+ 
+- Future
+  - handles asynchronous computation results
