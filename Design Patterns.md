@@ -13,11 +13,11 @@ Types of patterns
 
 #### Creational
 
-Purpose
+_Purpose_
 
 - Handle object creation and initialization (flexibility & reuse)
 
-Types
+_Types_
 
 - Singleton
   - only one instance of a class exists and provides a global access point
@@ -36,11 +36,11 @@ Types
  
 #### Structural
 
-Purpose
+_Purpose_
 
 - simplify design by defining relationships between entities
 
-Types
+_Types_
 
 - Adapter
   - converts the interface of one class to on of another as expected by the client
@@ -65,11 +65,11 @@ Types
  
 #### Behavioral
 
-Purpose
+_Purpose_
 
 - Focus on interaction and communication between objects
 
-Types
+_Types_
 
 - Chain of responsibility
   - passes a request onto a chain of handlers until one handles it
@@ -85,11 +85,11 @@ Types
 
 #### Concurrency
 
-Purpose
+_Purpose_
 
 - addresses multi threading and synchronization patterns
 
-Types
+_Types_
 
 - Thread pool
   - reusues a fixed # of threads for executing tasks
