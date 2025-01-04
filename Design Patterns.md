@@ -43,7 +43,7 @@ _Purpose_
 _Types_
 
 - Adapter
-  - converts the interface of one class to on of another as expected by the client
+  - converts the interface of one class to one of another as expected by the client
  
 - Bridge
   - separates abstraction from implementation, allowing them to vary independently
