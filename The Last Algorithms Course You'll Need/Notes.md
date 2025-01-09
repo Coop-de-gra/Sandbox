@@ -4,8 +4,10 @@ https://frontendmasters.com/courses/algorithms/
 <p></p>
 
 #### Big O time complexity
-<H6>a way to generalize the growth of your alorgithm</H6>
-<H6>understanding algorithms comes before understanding time complexity</H6>
+_a way to generalize the growth of your alorgithm_
+
+_understanding algorithms comes before understanding time complexity_
+
 <br>
 
 A. Growth is with respect to the input
