@@ -5,6 +5,8 @@ https://frontendmasters.com/courses/algorithms/
 
 #### Big O time complexity
 <H6>a way to generalize the growth of your alorgithm</H6>
+<H6>understanding algorithms comes before understanding time complexity</H6>
+<br>
 
 A. Growth is with respect to the input
 
@@ -14,8 +16,9 @@ B. simplest trick - Look for loops
 C. Usually measure time complexity in _worst case scenario_
 
 D. Examples
-    1. O(N^2)
 
+<br>1. O(N^2)
+  
 ```
 function sum_char_codes(n: string): number {
     let sum = 0;
@@ -28,9 +31,7 @@ function sum_char_codes(n: string): number {
     return sum;
 }
 ```
-<br>
-    2. O(N^3)
-<br>
+<br>2. O(N^3)
 
 ```
 function sum_char_codes(n: string): number {
@@ -45,3 +46,7 @@ function sum_char_codes(n: string): number {
     return sum;
 }
 ```
+
+<br>3. O(n log n)
+<br>4. O(log n)
+<br>5. O(sqrt(n))
