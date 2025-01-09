@@ -12,6 +12,12 @@ https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=stu
 * two pointers stop when they become equal
 * char is converted to string and outputted
 
+### strat (personal try)
+
+* `getChars()` - Copies characters from a string to an array of chars
+* `toCharArray()` - Converts this string to a new character array
+* `isEmpty()` - Checks whether a string is empty or not
+
 ### inital code 
 ```
 class Solution {
