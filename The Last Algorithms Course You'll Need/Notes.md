@@ -3,6 +3,10 @@
 https://frontendmasters.com/courses/algorithms/
 <p></p>
 
+NOTE: AFTER COURSE, CREATE EACH ALGORITHM ON YOUR OWN
+
+### Things to remember
+
 #### Big O time complexity
 _a way to generalize the growth of your alorgithm_
 
@@ -52,3 +56,25 @@ function sum_char_codes(n: string): number {
 <br>3. O(n log n)
 <br>4. O(log n)
 <br>5. O(sqrt(n))
+
+#### Arrays
+
+* continuous and ubreaking memory space
+* cannot grow it
+
+## Algorithms
+
+### A. Linear Search
+
+* simplest way to sort through an array | | goes index by index within an array looking for a match to a value | | brute force essentially
+  * time complexity = O(N) | | the more indexes it searched, the longer its gets (linear)
+
+### B. Binary Search
+_under the assumption the array is sorted_
+
+* **10% Method** | | repeatedly move 10% into the array, see if x > or < v | | if x < v, search the last 10% for x = v
+  * O(N) complexity
+* **Halfing Method** | | keep halfing the array, see if x > or < v | | find the right fractional area and search for x = v
+  * O(logN) or O(NlogN)(_if you're scanning_) complexity
+  * midpoint algo | | m = [lo + (hi - lo)/2]
+  * 2 crystal balls dropped from a 100 story building problem
