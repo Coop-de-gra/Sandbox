@@ -74,7 +74,15 @@ _under the assumption the array is sorted_
 
 * **10% Method** | | repeatedly move 10% into the array, see if x > or < v | | if x < v, search the last 10% for x = v
   * O(N) complexity
+* **sqrt(max) Method** | | repeatedly move sqrt(max) into the array, see if x > or < v | | if x < v, search the last sqrt(max) for x = v
+  * O(sqrt(N)) complexity
 * **Halfing Method** | | keep halfing the array, see if x > or < v | | find the right fractional area and search for x = v
   * O(logN) or O(NlogN)(_if you're scanning_) complexity
   * midpoint algo | | m = [lo + (hi - lo)/2]
   * 2 crystal balls dropped from a 100 story building problem
+ 
+### Bubble Sort
+_an array is sorted if Xi is <= Xi + 1_
+
+* 
+
