@@ -82,7 +82,13 @@ _under the assumption the array is sorted_
   * 2 crystal balls dropped from a 100 story building problem
  
 ### Bubble Sort
+
 _an array is sorted if Xi is <= Xi + 1_
 
-* 
+* **Nutshell** | | is index i <=  i + 1 | | if yes, look at i + 1 and ask the same thing to the following index
+  * * O(n^2) time complexity
+
+* first iteration will always produce the largest item in the last spot
+* can be implemented in 2 for loops, 1 if statement, and 3 lines of code
+
 
