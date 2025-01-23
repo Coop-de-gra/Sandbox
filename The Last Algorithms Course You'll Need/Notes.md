@@ -90,6 +90,11 @@ _an array is sorted if Xi is <= Xi + 1_
 
 * first iteration will always produce the largest item in the last spot
 * can be implemented in 2 for loops, 1 if statement, and 3 lines of code
+* dont forget to create a temp variable for spot switching
 
+## Data Structures
 
+### Linked List 
+
+* list of containered items 
  
