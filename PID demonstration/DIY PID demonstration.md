@@ -4,11 +4,12 @@
 
 #### How to hook it up ####
 
-* Provide 4.5v - 6v DC to the White and Red wires
-  * these connect to your motor driver and can me PWM'd for speed adjustment and direction
-* Connect the blue wire to microcontroller ground pin
-* Connect black wire to 3-5vDC
-* Read hall effect outputs on the yellow and green wires
+* M1 (White) - Power - Motor Power Supply -
+* GND (Blue) - Power - Encoder GND -
+* C1 (Green) - output - Encoder A Phase
+* C2 (Yellow) - output - Encoder B Phase
+* VCC (Black) - power - Encoder Power Supply +
+* M2 (Red) - power - Motor Power Supply +
 
 ## TB6612FNG Motor Controller ##
 
