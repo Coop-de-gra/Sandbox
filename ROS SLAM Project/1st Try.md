@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=_QpNMJEAkX0&ab_channel=RoboticsWeekends
 
 ### Intentions
 
-* SLAM using RGB-D and an Xbox 360 Kinect. (Another option is ORB-SLAM using Logitech Camera)
+* SLAM using RGB-D and an Xbox 360 Kinect. (Another option is ORB-SLAM using Logitech Camera OR LiDAR SLAM using RPLIDAR but its $99)
 
 
 #### ROS Melodic on Pi 5
