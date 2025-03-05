@@ -35,4 +35,5 @@ really inspired by this build: https://www.youtube.com/watch?v=T37QCOghzdo&ab_ch
 * KREEM gas tank sealer kit: https://tcbros.com/products/kreem-gas-tank-sealer-kit?srsltid=AfmBOoqRLAn-yCT6yhyisCk0H6iiORWLZgHA_xpaRZSDx1Afjvl6BG2b
 * Gas tank mounting kit: https://tcbros.com/products/universal-frisco-gas-tank-mounting-kit-by-tc-bros
 * 2" Bar risers for 1" diameter bars: https://tcbros.com/products/tc-bros-2-classic-stainless-risers-for-1-diameter-handlebars
+* Bourbon Ape Handlebars: https://www.revzilla.com/motorcycle/la-choppers-old-school-1-bourbon-ape-handlebars-for-harley
 
