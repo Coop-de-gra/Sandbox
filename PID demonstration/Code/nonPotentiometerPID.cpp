@@ -34,14 +34,14 @@ float lastError = 0.0;
 float controlOutput = 0.0;
 
 // Gear ratio
-float gearRatio = 50.0;
-float pulsesPerRev = 20.0;  // Adjust if needed
+float gearRatio = 50.0;  // 50:1 gear ratio (need to physically count this)
+float pulsesPerRev = 350.0;  // Adjust if needed (need to physically count this)
 
 // Timing
 unsigned long prevMillis = 0;
 
 // Serial Control
-bool loopEnabled = false;
+bool loopEnabled = false; 
 
 void setup() {
   Serial.begin(9600);
