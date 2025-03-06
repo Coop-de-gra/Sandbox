@@ -24,9 +24,9 @@ float outputRPM = 0.0;
 float targetRPM = 50.0;  // Default target RPM (capped at 100 RPM)
 
 // Manually set PID gains via Serial
-float Kp = 2.0;
-float Ki = 0.5;
-float Kd = 0.1;
+float Kp = 1.50;
+float Ki = 1.25;
+float Kd = 0.06;
 
 // Intermediate PID variables
 float integral  = 0.0;
@@ -34,8 +34,8 @@ float lastError = 0.0;
 float controlOutput = 0.0;
 
 // Gear ratio
-float gearRatio = 50.0;  // 50:1 gear ratio (need to physically count this)
-float pulsesPerRev = 350.0;  // Adjust if needed (need to physically count this)
+float gearRatio = 100.0;  // 100:1 gear ratio (need to physically count this)
+float pulsesPerRev = 45.0;  // Adjust if needed (need to physically count this)
 
 // Timing
 unsigned long prevMillis = 0;
