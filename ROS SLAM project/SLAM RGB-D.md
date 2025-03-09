@@ -24,4 +24,6 @@ source: https://www.hackster.io/dmitrywat/rgb-d-slam-with-kinect-on-raspberry-pi
 * Ubuntu server is working much better
 * Cmake and Libusb installed first time
 * I prefer server interface, much more user friendly and palatable
-* 
+* server interface does not have a gui or a window manager
+ * this means that all my work up until this point is wrong and i have to restart - i've tried installing a gui but it locked the boot up sequence
+ * 
