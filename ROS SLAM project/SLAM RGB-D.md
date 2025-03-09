@@ -12,4 +12,16 @@ source: https://www.hackster.io/dmitrywat/rgb-d-slam-with-kinect-on-raspberry-pi
 * Kinect drivers
 * RTAB-MAP ROS
 * ROS Noetic
+
+### Kinect Information
+
+* Libfreenext: https://github.com/OpenKinect/libfreenect
+  * Only use for Kinect V1
+  * If Kinect V2, then use Libfreenect2
+ 
+# Experience
+
+* Ubuntu server is working much better
+* Cmake and Libusb installed first time
+* I prefer server interface, much more user friendly and palatable
 * 
