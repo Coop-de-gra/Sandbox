@@ -1,9 +1,5 @@
 **link**: https://ats.rippling.com/forterra/jobs/de7ccf76-c314-482c-8b7f-d1504a49e7c3
 
-# Skills and Preparation Guide
-
-Below is a breakdown of the key skills and qualifications mentioned in the job posting for the **Platform Control Software Engineer** position at Forterra, along with suggestions on how to prepare for an interview.
-
 ---
 
 ## 1. Core Technical Skills
