@@ -2,12 +2,15 @@ intent: Use iPhone and equip it to be a filming rig
 ---
 ### how
 * Small chest pack like they use to wrap cars
+  * link: https://a.co/d/awTncMF
 * 10k mAh portable battery
+  * link: https://a.co/d/hqyFtYC
 * Small portable external drive
+  * link: trying to solver best transfer speed vs price
 * iphone lav/lapel mic
 * use apple watch to start/stop video
 * maybe a led mini light
-  * like this: https://a.co/d/4fXsqsr
+  * link: https://a.co/d/4fXsqsr
 
 ### why
 * chest rig iphone filming setup
