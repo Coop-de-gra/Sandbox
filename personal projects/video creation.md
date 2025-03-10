@@ -1,7 +1,7 @@
 intent: Use iPhone and equip it to be a filming rig
 ---
 ### how
-* Small chest rig like they use to wrap cars
+* Small chest pack like they use to wrap cars
 * 10k mAh portable battery
 * Small portable external drive
 * iphone lav/lapel mic
