@@ -7,7 +7,7 @@ intent: Use iPhone and equip it to be a filming rig
 * iphone lav/lapel mic
 * use apple watch to start/stop video
 * maybe a led mini light
-      * like this: https://a.co/d/4fXsqsr
+  * like this: https://a.co/d/4fXsqsr
 
 ### idea
 * chest rig iphone filming setup
