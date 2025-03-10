@@ -1,5 +1,14 @@
 source: https://www.hackster.io/dmitrywat/rgb-d-slam-with-kinect-on-raspberry-pi-4-ros-melodic-ace795
 
+---
+
+**try**
+ * Lubuntu
+ * Ubuntu Server with i3 tiling window manager
+   * https://github.com/thexavier666/i3_ubuntu_server
+
+---
+
 ### First Impressions
 
 * This is not up to date
